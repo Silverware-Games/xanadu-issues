@@ -15,6 +15,7 @@ Core Gameplay Loop:
 6. The creatures who join Xanadu can collect resources, flatten land, and build structure.
 
 7. If the creatures become unhappy they will rise up and destroy your civ/insight other creatures to rebel.
+8. Build structures to increase happiness and make Xanadu a pleasure dome, games, elaborate decoractions, water slides, theatres etc.
 
 Van Customization:
 The V.ehicular A.ctualization N.avigator or VAN will be customizable, build a death machine, or a hippie scooby doo thing, or a cute cozy vehicle with flowers and whatever. As you build upgrades your VAN changes it's aesthetics to whatever kind of things you attach. Add a lot of weapons, your VAN will be fierce and intimidating. Add a lot of communications and other logistical stuff and it will be more cute.
@@ -25,7 +26,8 @@ First Milestone:
 * Resources are spawned in your dome, and you can bring them to the van. (All chipped away resources within a radius of the van get sucked up.)
 * Tools for flatening land by clicking. (Cunks of dirt are spawned every time you click, that can be collected and used to fill in holes.)
 * Tools for building on flat land by clicking. 3-4 different kinds of buildings (Psy recruitment tower, sleeping pod...)
-* Tamed creatures can build
+* Tamed creatures can build/work/flatten terrain/collect resources.
+* 
 
 Use https://github.com/Silverware-Games/xanadu-issues/issues to submit an idea or a bug report. You should be signed into GitHub.
 
