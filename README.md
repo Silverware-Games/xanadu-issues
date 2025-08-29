@@ -1,15 +1,37 @@
-# xanadu-issues
+# Project Xanadu - The Master Plan
 
-Issue tracker for the stately pleasure dome that Kubla Kahn did decree.
+The stately pleasure dome that Kubla Kahn did decree.
+
+Potential Names:
+* Xanadu Live
+* Van Game: Trippin Through Xanadu
+
+Core Gameplay Loop:
+1. Collect resources (Gold? Crystals? Zoot?) needed to build stuff. Collect stuff by clicking and chipping away.
+2. Flatten land by clicking and chipping away.
+3. Build structures. (Mind control towers, reality bending stuff.) Build by clicking over and over.
+4. Use your structures and such to tame/recruit the native creatures.
+5. The creatures who join Xanadu can collect resources, flatten land, and build structure.
+
+6. If the creatures become unhappy they will rise up and destroy your civ/insight other creatures to rebel.
+
+First Milestone:
+* Spherical finite dome of terrain. (Once the demo is beaten the dome will expand or open up new domes. Design the dome system to be arbitrarily large if needed.)
+* 3-4 different kinds of creatures, each with it's on way to be tamed (Some will need to be slapped around, some will need to be coaxed in other ways.)
+* Resources are spawned in your dome, and you can bring them to the van. (All chipped away resources within a radius of the fan get sucked up.)
+* Tools for flatening land by clicking. (Cunks of dirt are spawned every time you click, that can be collected and used to fill in holes.)
+* Tools for building on flat land by clicking. 3-4 different kinds of buildings (Psy recruitment tower, sleeping pod...)
+* Tamed creatures can build
 
 Use https://github.com/Silverware-Games/xanadu-issues/issues to submit an idea or a bug report. You should be signed into GitHub.
 
-Rules:
+Rules If You Want to Make a Submission:
 
-* You must follow GitHub Community Guidelines.
-* The bug reports/ideas should be related to Xanadu and Xanadu only.
-* It's up to us to decide whether (and when) accept the idea/bug report or not.
+* Follow GitHub Community Guidelines.
+* This is the Xanadu issue tracker, feel free to submit an issue but only for this project. We have other trackers for other projects!
+* We have the final say what goes into the game, so we may not take all feedback and suggestions.
+* Anything you suggest we can use and all we can offer in return is a free copy of the game.
 * All vulnerabilities should be reported privately.
 * You must not use the Issue Tracker if you do not agree to any of the terms.
 
-Discord: https://discord.silverwaregames.com (#xanadu)
+Discord: https://discord.silverwaregames.com
