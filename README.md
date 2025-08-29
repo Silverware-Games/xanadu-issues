@@ -27,7 +27,7 @@ First Milestone:
 * Tools for flatening land by clicking. (Cunks of dirt are spawned every time you click, that can be collected and used to fill in holes.)
 * Tools for building on flat land by clicking. 3-4 different kinds of buildings (Psy recruitment tower, sleeping pod...)
 * Tamed creatures can build/work/flatten terrain/collect resources.
-* 
+* Citizens (Tamed Creatures) will have happiness meters and if their needs aren't met they get unhappy.
 
 Use https://github.com/Silverware-Games/xanadu-issues/issues to submit an idea or a bug report. You should be signed into GitHub.
 
