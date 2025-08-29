@@ -18,7 +18,7 @@ Core Gameplay Loop:
 First Milestone:
 * Spherical finite dome of terrain. (Once the demo is beaten the dome will expand or open up new domes. Design the dome system to be arbitrarily large if needed.)
 * 3-4 different kinds of creatures, each with it's on way to be tamed (Some will need to be slapped around, some will need to be coaxed in other ways.)
-* Resources are spawned in your dome, and you can bring them to the van. (All chipped away resources within a radius of the fan get sucked up.)
+* Resources are spawned in your dome, and you can bring them to the van. (All chipped away resources within a radius of the van get sucked up.)
 * Tools for flatening land by clicking. (Cunks of dirt are spawned every time you click, that can be collected and used to fill in holes.)
 * Tools for building on flat land by clicking. 3-4 different kinds of buildings (Psy recruitment tower, sleeping pod...)
 * Tamed creatures can build
