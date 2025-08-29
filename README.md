@@ -2,6 +2,8 @@
 
 The stately pleasure dome that Kubla Kahn did decree. Based on the public doman poem that was never finished. A fever dream about the perfect world, Utopia.
 
+Here is a video of the latest build on YouTube: https://www.youtube.com/watch?v=nWQKlAsC_AA
+
 Potential Names:
 * Xanadu Live
 * VAN Game: Trippin Through Xanadu
