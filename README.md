@@ -16,15 +16,26 @@ Potential Names:
 7. If the creatures become unhappy they will rise up and destroy your civ/insite other creatures to rebel.
 8. Build structures to increase happiness and make Xanadu a pleasure dome, games, elaborate decoractions, water slides, theatres etc.
 
-## Van Customization:
+## Creatures of Xanadu (3-4 types for Milestone 1):
+* Matchy Stars - Hatch from eggs and lay eggs. Need to be hit with the swater to join.
+
+## Van Customization (5 upgrades for Milestone 1):
 The V.ehicular A.ctualization N.avigator or VAN will be customizable, build a death machine, or a hippie scooby doo thing, or a cute cozy vehicle with flowers and whatever. As you build upgrades your VAN changes it's aesthetics to whatever kind of things you attach. Add a lot of weapons, your VAN will be fierce and intimidating. Add a lot of communications and other logistical stuff and it will be more cute.
 
-## First Milestone:
+* "Fly Swatter" Swats the area in front of the VAN and has a chance to recruit creatures.
+* "Super Click" Each click counts as 2 clicks instead of one.
+
+## Buildings (5 buildings for Milestone 1):
+* "Town Hall" The center of town. Other buildings have to be connected to this within a radius.
+* "Imposing Tower" These great spires are so impressive they will convince the creatures of Xanadu to join your civ. They may have hypnotic mind control systems in them... don't worry about that.
+* "Sleep Pod" A single pod that one creature can use to rest. If creatures don't get any rest they will become unhappy. Build enough of these pods so that everyone in the civ can sleep enough."
+
+## Milestone 1:
 * Spherical finite dome of terrain. (Once the demo is beaten the dome will expand or open up new domes. Design the dome system to be arbitrarily large if needed.)
 * 3-4 different kinds of creatures, each with it's on way to be tamed (Some will need to be slapped around, some will need to be coaxed in other ways.)
 * Resources are spawned in your dome, and you can bring them to the van. (All chipped away resources within a radius of the van get sucked up.)
 * Tools for flatening land by clicking. (Cunks of dirt are spawned every time you click, that can be collected and used to fill in holes.)
-* Tools for building on flat land by clicking. 3-4 different kinds of buildings (Psy recruitment tower, sleeping pod...)
+* Tools for building on flat land by clicking. 3-4 different kinds of buildings.
 * Tamed creatures can build/work/flatten terrain/collect resources.
 * Citizens (Tamed Creatures) will have happiness meters and if their needs aren't met they get unhappy.
 
@@ -34,7 +45,7 @@ Use https://github.com/Silverware-Games/xanadu-issues/issues to submit an idea o
 * Follow GitHub Community Guidelines.
 * This is the Xanadu issue tracker, feel free to submit an issue but only for this project. We have other trackers for other projects!
 * We have the final say what goes into the game, so we may not take all feedback and suggestions.
-* Anything you suggest we can use and all we can offer in return is a free copy of the game.
+* Anything you suggest we can use and all we can offer in return is a free copy of the game, and our sincere thanks!
 * All vulnerabilities should be reported privately.
 * You must not use the Issue Tracker if you do not agree to any of the terms.
 
