@@ -4,16 +4,20 @@ The stately pleasure dome that Kubla Kahn did decree.
 
 Potential Names:
 * Xanadu Live
-* Van Game: Trippin Through Xanadu
+* VAN Game: Trippin Through Xanadu
 
 Core Gameplay Loop:
 1. Collect resources (Gold? Crystals? Zoot?) needed to build stuff. Collect stuff by clicking and chipping away.
 2. Flatten land by clicking and chipping away.
 3. Build structures. (Mind control towers, reality bending stuff.) Build by clicking over and over.
-4. Use your structures and such to tame/recruit the native creatures.
-5. The creatures who join Xanadu can collect resources, flatten land, and build structure.
+4. Build upgrades to your van that can be attached (armor, fly swatter/weapons to help build and increase your clicking power.)
+5. Use your structures and such to tame/recruit the native creatures.
+6. The creatures who join Xanadu can collect resources, flatten land, and build structure.
 
-6. If the creatures become unhappy they will rise up and destroy your civ/insight other creatures to rebel.
+7. If the creatures become unhappy they will rise up and destroy your civ/insight other creatures to rebel.
+
+Van Customization:
+The V.ehicular A.ctualization N.avigator or VAN will be customizable, build a death machine, or a hippie scooby doo thing, or a cute cozy vehicle with flowers and whatever. As you build upgrades your VAN changes it's aesthetics to whatever kind of things you attach. Add a lot of weapons, your VAN will be fierce and intimidating. Add a lot of communications and other logistical stuff and it will be more cute.
 
 First Milestone:
 * Spherical finite dome of terrain. (Once the demo is beaten the dome will expand or open up new domes. Design the dome system to be arbitrarily large if needed.)
