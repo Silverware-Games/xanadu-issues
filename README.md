@@ -30,6 +30,9 @@ The V.ehicular A.ctualization N.avigator or VAN will be customizable, build a de
 * "Imposing Tower" These great spires are so impressive they will convince the creatures of Xanadu to join your civ. They may have hypnotic mind control systems in them... don't worry about that.
 * "Sleep Pod" A single pod that one creature can use to rest. If creatures don't get any rest they will become unhappy. Build enough of these pods so that everyone in the civ can sleep enough."
 
+## Terrain Sculpting (For Milestone 1):
+* Our terrain algorithm using Marching Cubes and Smooth Voxels allows for totally custom terrain and should have enough sculpting tools to build stuff out of terrain itself rather than prefab buildings. Obviously people will want to build little buildings but you can sculpt the terrain to make anything you want... Maybe you sclupt the terrain to be in the shape of buildings and then assign a type of building to the terrain. So for example, a closed area with a bed is a "Sleep Pod?" rather than having a spesific object for a sleep pod.
+
 ## Milestone 1:
 * Spherical finite dome of terrain. (Once the demo is beaten the dome will expand or open up new domes. Design the dome system to be arbitrarily large if needed.)
 * 3-4 different kinds of creatures, each with it's on way to be tamed (Some will need to be slapped around, some will need to be coaxed in other ways.)
