@@ -1,4 +1,4 @@
-# Project Xanadu - The Master Plan
+# Project Xanadu - The Master Plan aka Game Design Doc
 
 The stately pleasure dome that Kubla Kahn did decree.
 
