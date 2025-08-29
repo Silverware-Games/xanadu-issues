@@ -12,7 +12,7 @@ Core Gameplay Loop:
 3. Build structures. (Mind control towers, reality bending stuff.) Build by clicking over and over.
 4. Build upgrades to your van that can be attached (armor, fly swatter/weapons to help build and increase your clicking power.)
 5. Use your structures and such to tame/recruit the native creatures.
-6. The creatures who join Xanadu can collect resources, flatten land, and build structure.
+6. The creatures who join Xanadu can collect resources, flatten land, and build structures.
 
 7. If the creatures become unhappy they will rise up and destroy your civ/insight other creatures to rebel.
 8. Build structures to increase happiness and make Xanadu a pleasure dome, games, elaborate decoractions, water slides, theatres etc.
