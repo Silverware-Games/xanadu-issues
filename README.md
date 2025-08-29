@@ -14,7 +14,7 @@ Core Gameplay Loop:
 5. Use your structures and such to tame/recruit the native creatures.
 6. The creatures who join Xanadu can collect resources, flatten land, and build structures.
 
-7. If the creatures become unhappy they will rise up and destroy your civ/insight other creatures to rebel.
+7. If the creatures become unhappy they will rise up and destroy your civ/insite other creatures to rebel.
 8. Build structures to increase happiness and make Xanadu a pleasure dome, games, elaborate decoractions, water slides, theatres etc.
 
 Van Customization:
