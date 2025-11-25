@@ -4,6 +4,8 @@ The stately pleasure dome that Kubla Kahn did decree. Based on the public doman 
 
 Here is a video of the latest build on YouTube: https://www.youtube.com/watch?v=nWQKlAsC_AA
 
+![Disk World Style Dome of Smooth Voxel Terrain](https://github.com/user-attachments/assets/64c87174-05e7-4151-80ca-8c8e30b9c2df)
+
 Potential Names:
 * Xanadu Live
 * VAN Game: Trippin Through Xanadu
