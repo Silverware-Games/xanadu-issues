@@ -6,8 +6,9 @@
 Project Xanadu is a surreal utopia-building game inspired by the iconic (and unfinished) public-domain poem.  
 Players sculpt smooth voxel terrain, recruit strange creatures, and build a thriving pleasure dome with a customizable V.A.N. (Vehicular Actualization Navigator).
 
-## Latest Build Video  
-https://www.youtube.com/watch?v=nWQKlAsC_AA
+## Latest Build Video And Pitch Deck
+* [Check out our pitch deck!](https://docs.google.com/presentation/d/13iO6f8xgVMBkhom3wbcVl8_kww42u66P1FvVtzFFVDI/edit?usp=sharing)
+* Here's the latest video about our current build: https://www.youtube.com/watch?v=nWQKlAsC_AA
 
 ![Disk World Style Dome of Smooth Voxel Terrain](https://github.com/user-attachments/assets/64c87174-05e7-4151-80ca-8c8e30b9c2df)
 
