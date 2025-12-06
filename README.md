@@ -1,59 +1,113 @@
-# Project Xanadu - The Master Plan aka Game Design Doc
+# Project Xanadu – The Master Plan  
 
-The stately pleasure dome that Kubla Kahn did decree. Based on the public doman poem that was never finished. A fever dream about the perfect world, Utopia.
+"In Xanadu did Kubla Khan a stately pleasure dome decree…"  
 
-Here is a video of the latest build on YouTube: https://www.youtube.com/watch?v=nWQKlAsC_AA
+## A Game Design Document for the Xanadu Live Prototype
+Project Xanadu is a surreal utopia-building game inspired by the iconic (and unfinished) public-domain poem.  
+Players sculpt smooth voxel terrain, recruit strange creatures, and build a thriving pleasure dome with a customizable V.A.N. (Vehicular Actualization Navigator).
+
+## Latest Build Video  
+https://www.youtube.com/watch?v=nWQKlAsC_AA
 
 ![Disk World Style Dome of Smooth Voxel Terrain](https://github.com/user-attachments/assets/64c87174-05e7-4151-80ca-8c8e30b9c2df)
 
-Potential Names:
-* Xanadu Live
-* VAN Game: Trippin Through Xanadu
+## Potential Titles
+- Xanadu Live  
+- V.A.N. Game: Trippin Through Xanadu
 
-## Core Gameplay Loop:
-1. Collect resources (Gold? Crystals? Zoot?) needed to build stuff. Collect stuff by clicking and chipping away.
-2. Flatten land by clicking and chipping away.
-3. Build structures. (Mind control towers, reality bending stuff.) Build by clicking over and over.
-4. Build upgrades to your van that can be attached (armor, fly swatter/weapons to help build and increase your clicking power.)
-5. Use your structures and such to tame/recruit the native creatures.
-6. The creatures who join Xanadu can collect resources, flatten land, and build structures.
-7. If the creatures become unhappy they will rise up and destroy your civ/insite other creatures to rebel.
-8. Build structures to increase happiness and make Xanadu a pleasure dome, games, elaborate decoractions, water slides, theatres etc.
+# Core Gameplay Loop
 
-## Creatures of Xanadu (3-4 types for Milestone 1):
-* Matchy Stars - Hatch from eggs and lay eggs. Need to be hit with the swater to join.
+1. Collect resources by clicking and chipping away at the terrain.  
+2. Sculpt and flatten land using click-based tools.  
+3. Construct buildings such as mind-control towers, utility structures, and other reality-bending architecture.  
+4. Upgrade your V.A.N. with functional attachments (tools, weapons, logistics modules).  
+5. Use your tools and structures to tame and recruit native creatures.  
+6. Recruited creatures automatically gather resources, sculpt land, and build structures.  
+7. Manage creature happiness and prevent rebellions that may damage your civilization.  
+8. Build entertainment and comfort structures to maintain a thriving utopia (slides, theatres, decorations, etc.).
 
-## Van Customization (5 upgrades for Milestone 1):
-The V.ehicular A.ctualization N.avigator or VAN will be customizable, build a death machine, or a hippie scooby doo thing, or a cute cozy vehicle with flowers and whatever. As you build upgrades your VAN changes it's aesthetics to whatever kind of things you attach. Add a lot of weapons, your VAN will be fierce and intimidating. Add a lot of communications and other logistical stuff and it will be more cute.
 
-* "Fly Swatter" Swats the area in front of the VAN and has a chance to recruit creatures.
-* "Super Click" Each click counts as 2 clicks instead of one.
+# Creatures of Xanadu (Milestone 1)
 
-## Buildings (5 buildings for Milestone 1):
-* "Town Hall" The center of town. Other buildings have to be connected to this within a radius.
-* "Imposing Tower" These great spires are so impressive they will convince the creatures of Xanadu to join your civ. They may have hypnotic mind control systems in them... don't worry about that.
-* "Sleep Pod" A single pod that one creature can use to rest. If creatures don't get any rest they will become unhappy. Build enough of these pods so that everyone in the civ can sleep enough."
+A small set of unique creatures populates the dome. Each has its own recruitment method.
 
-## Terrain Sculpting (For Milestone 1):
-* Our terrain algorithm using Marching Cubes and Smooth Voxels allows for totally custom terrain and should have enough sculpting tools to build stuff out of terrain itself rather than prefab buildings. Obviously people will want to build little buildings but you can sculpt the terrain to make anything you want... Maybe you sclupt the terrain to be in the shape of buildings and then assign a type of building to the terrain. So for example, a closed area with a bed is a "Sleep Pod?" rather than having a spesific object for a sleep pod.
+### Matchy Stars  
+Hatch from eggs and lay more eggs. Must be struck with the "fly swatter" tool to become recruitable.
 
-## Milestone 1:
-* Spherical finite dome of terrain. (Once the demo is beaten the dome will expand or open up new domes. Design the dome system to be arbitrarily large if needed.)
-* 3-4 different kinds of creatures, each with it's on way to be tamed (Some will need to be slapped around, some will need to be coaxed in other ways.)
-* Resources are spawned in your dome, and you can bring them to the van. (All chipped away resources within a radius of the van get sucked up.)
-* Tools for flatening land by clicking. (Cunks of dirt are spawned every time you click, that can be collected and used to fill in holes.)
-* Tools for building on flat land by clicking. 3-4 different kinds of buildings.
-* Tamed creatures can build/work/flatten terrain/collect resources.
-* Citizens (Tamed Creatures) will have happiness meters and if their needs aren't met they get unhappy.
+More species will be added in future milestones with unique personalities and taming mechanics.
 
-## Submit your ideas, PLZYES!
-Use https://github.com/Silverware-Games/xanadu-issues/issues to submit an idea or a bug report. You should be signed into GitHub.
+# V.A.N. Customization (Milestone 1)
 
-* Follow GitHub Community Guidelines.
-* This is the Xanadu issue tracker, feel free to submit an issue but only for this project. We have other trackers for other projects!
-* We have the final say what goes into the game, so we may not take all feedback and suggestions.
-* Anything you suggest we can use and all we can offer in return is a free copy of the game, and our sincere thanks!
-* All vulnerabilities should be reported privately.
-* You must not use the Issue Tracker if you do not agree to any of the terms.
+The Vehicular Actualization Navigator (V.A.N.) serves as the player's mobile home base, resource vacuum, and identity anchor.  
+Players can attach upgrades that change both gameplay and appearance. Examples include:
 
-Discord: https://discord.silverwaregames.com
+### Initial Upgrades
+- Fly Swatter: Swats the area in front of the V.A.N. and may recruit creatures.  
+- Super Click: Each click counts as two clicks.
+
+### Customization Vision
+Players should be able to transform the V.A.N. into:  
+- a dangerous armored rover  
+- a friendly psychedelic van  
+- a cozy, decorative vehicle  
+- a logistics-heavy utility vehicle  
+
+Upgrades visually modify the V.A.N. based on playstyle.
+
+# Buildings (Milestone 1)
+
+### Town Hall  
+The central hub of your settlement. Other structures must connect within its radius.
+
+### Imposing Tower  
+Large, impressive spires that persuade or influence creatures to join the civ.
+
+### Sleep Pod  
+A single rest station for one creature. Lack of sleep reduces happiness and can trigger rebellions.
+
+More buildings will be added later, including entertainment, logistics, and happiness-boosting structures.
+
+# Terrain Sculpting (Milestone 1)
+
+Xanadu uses a Marching Cubes smooth-voxel terrain system with intuitive click-based tools.  
+Players can:
+
+- Flatten land  
+- Carve shapes  
+- Build terrain-based architecture  
+- Sculpt the dome into structures instead of relying solely on prefabs  
+
+Terrain volumes can also be designated as functional buildings.  
+Example: A carved-out chamber with a bed shape can be tagged as a Sleep Pod without requiring a prefab object.
+
+This system enables high creative freedom while keeping early gameplay approachable.
+
+# Milestone 1 Goals
+
+A playable, self-contained dome prototype including:
+
+- One finite spherical dome (expandable to more domes later).  
+- Three to four creature types with distinct taming mechanics.  
+- Resource extraction via terrain chipping; the V.A.N. automatically vacuums drops within radius.  
+- Terrain-flattening and buildup tools with click-to-edit interactions.  
+- Three to four building types.  
+- Recruited creatures can gather resources, sculpt terrain, and build structures.  
+- A basic happiness system influencing behavior and potential rebellions.
+
+This milestone delivers a complete vertical slice demonstrating terrain sculpting, creature recruitment, V.A.N. progression, and the utopia-building loop.
+
+# Contribute Ideas (PLZYES)
+
+Submit ideas, bugs, or feature suggestions here:  
+https://github.com/Silverware-Games/xanadu-issues/issues
+
+Guidelines:
+
+- Follow GitHub Community Guidelines.  
+- Use this tracker only for Project Xanadu.  
+- Not all suggestions will be accepted; final decisions remain with the dev team.  
+- Suggestions may be freely used in the game; compensation is limited to a free copy and our thanks.  
+- Security vulnerabilities should be reported privately.  
+- Do not use the issue tracker unless you agree to these terms.
+
+Community Discord: https://discord.silverwaregames.com
