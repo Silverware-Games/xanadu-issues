@@ -1,16 +1,20 @@
-# Project Xanadu – The Master Plan  
+# Project Xanadu Game Design Document
 
 "In Xanadu did Kubla Khan a stately pleasure dome decree…"  
 
-## A Game Design Document for the Xanadu Live Prototype
-Project Xanadu is a surreal utopia-building game inspired by the iconic (and unfinished) public-domain poem.  
-Players sculpt smooth voxel terrain, recruit strange creatures, and build a thriving pleasure dome with a customizable V.A.N. (Vehicular Actualization Navigator).
+## About the Developer
+Project Page: https://xanadu.live  
+Developer: [Silverware Games, Inc.](https://silverwaregames.com)  
+Primary Contact: michael@silverwaregames.com / @michaelplzno  
+Pitch Deck: [Want to publish us?!](https://docs.google.com/presentation/d/13iO6f8xgVMBkhom3wbcVl8_kww42u66P1FvVtzFFVDI/edit?usp=sharing)
 
-## Latest Build Video And Pitch Deck
-* [Check out our pitch deck!](https://docs.google.com/presentation/d/13iO6f8xgVMBkhom3wbcVl8_kww42u66P1FvVtzFFVDI/edit?usp=sharing)
-* Here's the latest video about our current build: https://www.youtube.com/watch?v=nWQKlAsC_AA
+Current build demo video: https://www.youtube.com/watch?v=nWQKlAsC_AA
 
 ![Disk World Style Dome of Smooth Voxel Terrain](https://github.com/user-attachments/assets/64c87174-05e7-4151-80ca-8c8e30b9c2df)
+
+## What is Xanadu?
+Project Xanadu is a surreal utopia-building game inspired by the iconic (and unfinished) public-domain poem.  
+Players sculpt smooth voxel terrain, recruit strange creatures, and build a thriving pleasure dome with a customizable V.A.N. (Vehicular Actualization Navigator).
 
 ## Potential Titles
 - Xanadu Live  
@@ -27,9 +31,7 @@ Players sculpt smooth voxel terrain, recruit strange creatures, and build a thri
 7. Manage creature happiness and prevent rebellions that may damage your civilization.  
 8. Build entertainment and comfort structures to maintain a thriving utopia (slides, theatres, decorations, etc.).
 
-
 # Creatures of Xanadu (Milestone 1)
-
 A small set of unique creatures populates the dome. Each has its own recruitment method.
 
 ### Matchy Stars  
@@ -38,7 +40,6 @@ Hatch from eggs and lay more eggs. Must be struck with the "fly swatter" tool to
 More species will be added in future milestones with unique personalities and taming mechanics.
 
 # V.A.N. Customization (Milestone 1)
-
 The Vehicular Actualization Navigator (V.A.N.) serves as the player's mobile home base, resource vacuum, and identity anchor.  
 Players can attach upgrades that change both gameplay and appearance. Examples include:
 
@@ -100,7 +101,7 @@ This milestone delivers a complete vertical slice demonstrating terrain sculptin
 # Contribute Ideas (PLZYES)
 
 Submit ideas, bugs, or feature suggestions here:  
-https://github.com/Silverware-Games/xanadu-issues/issues
+https://github.com/Silverware-Games/xanadu-live-gdd/issues
 
 Guidelines:
 
